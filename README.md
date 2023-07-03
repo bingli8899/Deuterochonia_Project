@@ -2,13 +2,12 @@
 
 Here is the codes used for Deuterochonia Project: 
 
-Bait Design -- codes that modify Bromeliad 1776 (Yardeni et al. 2021) 
+1. Bait Design -- codes that modify Bromeliad 1776 (Yardeni et al. 2021) 
 
 Then, Deuterochonia samples and Pitcairnia samples were sent to Arbor for sequencing. 
 
-Codes for nuclear analysis 
-
-Code that assess assembly quality 
+2. nuclear analysis 
+3. assess assembly quality 
 
 
 Reference: 
