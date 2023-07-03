@@ -1,0 +1,8 @@
+results for assessing assembly quality: 
+
+In terms of the assembly quality of our herbarium samples, I have addressed the following two questions:
+* Does the year of collection of herbarium samples differ between the five successfully assembled herbarium samples and the 11 herbarium samples that were not successfully assembled? I conducted a t-test (p = 0.2427) and linear models (p = 0.333) to test this, but no significant effect was observed. Due to the small sample size and non-normal distribution, I also performed a bootstrap test with 5000 replicates, which also indicated no significant effect (p = 0.2356) as well. 
+* Does the assembly quality of fresh materials differ from the assembly quality of the five successfully assembled herbarium samples? I conducted separate t-tests for the number of reads, number of genes mapped, number of Gen50%, and number of Gen75%. None of the results showed any significant differences. Since the p-values were large for most of the parameters, I did not conduct separate bootstrap tests. However, if the question is deemed important, I can perform a separate bootstrap test. 
+Based on the findings despite of small data size, it appears that:
+* The year of collection does not affect the sequencing and assembly quality. Younger herbarium samples do not necessarily result in better quality DNA extractions.
+* If the herbarium samples can be successfully sequenced and assembled, there is no difference in the assembly quality between those herbarium samples and fresh samples.
